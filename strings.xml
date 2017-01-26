@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AutoCompleteText</string>
+    <string name="multiautocomplete_text_view">MultiAutocomplete text view</string>
+    <string name="autocomplete_text_view">AutoComplete text view</string>
+    <string-array name="my_classmates">
+        <item>sasidaran</item>
+        <item>suresh</item>
+        <item>shameer</item>
+        <item>Tharun</item>
+        <item>Hari</item>
+        <item>Ramkumar</item>
+        <item>poovarasan</item>
+        <item>krishana</item>
+        <item>yogesh</item>
+        <item>gowtham</item>
+        <item>abinav</item>
+    </string-array>
+
+</resources>
